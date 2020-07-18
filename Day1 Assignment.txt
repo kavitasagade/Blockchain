@@ -1,0 +1,25 @@
+Question 1: What is your understanding of blockchain?
+Answer: Blockchain is the mix technology includes distributer database and cryptography where infoermation is verifiable,unchangable,tamper-proof,immutable.
+Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system.Each block in the chain contains 
+a number of transactions, and every time a new transaction occurs on the blockchain, a record of that transaction is added to every participant’s ledger. 
+The decentralised database managed by multiple participants.
+
+Question 2: What is the core problem blockchain trying to solve?
+Answer:  Blockchain addresses the problem of data security and trust by making the ledger public.blockchain has to also protect itself from willful fraud and theft.
+It also addresses problem of data loss due to hardware or connectivity issues.
+
+Question 3: What are the few features which blockchain will give u?
+Answer:  1.It has a public distributed ledger, which works using a hashing encryption.
+2. Every block has a hash value, which is the digital signature of the block.
+3. All the transactions are approved and verified.
+
+Question 4:  what all things does a block contain?
+Answer:  Transaction data is permanently recorded in files called blocks.Block contain block number,transaction record,previous block key and mining key.
+Blocks are organized into a linear sequence. New transactions are processed by miners into new blocks which are added to the end of the chain.each block contains 
+a reference to the prior block, the collection of all blocks in existence can be said to form a chain. 
+
+Question 5:  How is the verifiability of blockchain is been attained? 
+Answer:  If we download file from chrome and stored on local computer.then we create a digital signature as a fingerprint and add the previous fingerprint or 
+key into it or assume this is final key.and if someone reports different key then we will ask them to replace data.In the context of a blockchain, 
+zk-SNARKs allow users to maintain private transactions, while still validating the transactions according to the network’s consensus algorithm.
+ Once implemented, organizations will be able to transact on the same network as their competitors in complete privacy 
