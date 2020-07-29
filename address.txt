@@ -1,1 +1,1 @@
-Smart card address: https://ropsten.etherscan.io/tx/0xf81ca2d8117a280952bb20fb52dbe045ed8fc6b6193caa797efa24565fb33787
+Smart contract address: https://ropsten.etherscan.io/tx/0xf81ca2d8117a280952bb20fb52dbe045ed8fc6b6193caa797efa24565fb33787
